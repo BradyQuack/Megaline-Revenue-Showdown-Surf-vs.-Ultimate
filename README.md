@@ -1,1 +1,1 @@
-# Megaline-Revenue-Showdown-Surf-vs.-Ultimate
+# Megaline Revenue Showdown Surf vs. Ultimate
