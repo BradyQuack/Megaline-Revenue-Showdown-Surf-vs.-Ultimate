@@ -24,14 +24,22 @@ After exceeding the package limits:
 ## Description of the data
 The users table (data on users):
 
-user_id — unique user identifier
+user_id — unique user identifier 
+
 first_name — user's name
+
 last_name — user's last name
+
 age — user's age (years)
+
 reg_date — subscription date (dd, mm, yy)
+
 churn_date — the date the user stopped using the service (if the value is missing, the calling plan was being used when this database was extracted)
+
 city — user's city of residence
+
 plan — calling plan name
+
 The calls table (data on calls):
 
 id — unique call identifier
