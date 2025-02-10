@@ -33,7 +33,7 @@ After exceeding the package limits:
 1 GB of data: $7
 
 ## Description of the data
-The users table (data on users):
+### The users table (data on users):
 
 user_id — unique user identifier 
 
@@ -51,7 +51,7 @@ city — user's city of residence
 
 plan — calling plan name
 
-The calls table (data on calls):
+### The calls table (data on calls):
 
 id — unique call identifier
 
@@ -61,7 +61,7 @@ duration — call duration (in minutes)
 
 user_id — the identifier of the user making the call
 
-The messages table (data on texts):
+### The messages table (data on texts):
 
 id — unique text message identifier
 
@@ -69,7 +69,7 @@ message_date — text message date
 
 user_id — the identifier of the user sending the text
 
-The internet table (data on web sessions):
+### The internet table (data on web sessions):
 
 id — unique session identifier
 
@@ -79,7 +79,7 @@ session_date — web session date
 
 user_id — user identifier
 
-The plans table (data on the plans):
+### The plans table (data on the plans):
 
 plan_name — calling plan name
 
