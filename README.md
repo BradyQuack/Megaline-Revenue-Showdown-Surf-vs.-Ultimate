@@ -21,7 +21,7 @@ After exceeding the package limits:
 1 text message: 1 cent
 1 GB of data: $7
 
-##Description of the data
+## Description of the data
 The users table (data on users):
 
 user_id — unique user identifier
