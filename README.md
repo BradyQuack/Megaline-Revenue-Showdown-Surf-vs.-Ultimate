@@ -51,6 +51,7 @@ city — user's city of residence
 
 plan — calling plan name
 
+
 ### The calls table (data on calls):
 
 id — unique call identifier
@@ -61,6 +62,7 @@ duration — call duration (in minutes)
 
 user_id — the identifier of the user making the call
 
+
 ### The messages table (data on texts):
 
 id — unique text message identifier
@@ -68,6 +70,7 @@ id — unique text message identifier
 message_date — text message date
 
 user_id — the identifier of the user sending the text
+
 
 ### The internet table (data on web sessions):
 
@@ -78,6 +81,7 @@ mb_used — the volume of data spent during the session (in megabytes)
 session_date — web session date
 
 user_id — user identifier
+
 
 ### The plans table (data on the plans):
 
